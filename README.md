@@ -3,7 +3,7 @@
 ### Hi There, I'm Ala Uddin
 #### Full Stack Developer
 
-Hey, I am Ala Uddin who is working over 9+ years in Web Design and Development. I am the most expert in...
+who is working over 9+ years in Web Design and Development. I am the most expert in...
 
 1. Web Design: HTML5, CSS3, SCSS, Bootstrap, Material UI.
 2. Programming: PHP, Laravel, JavaScript, jQuery, VueJS, NuxtJs, ReactJS, NEXT JS.
