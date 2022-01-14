@@ -27,6 +27,4 @@ Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / H
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibnub)  
-
 ![Profile views](https://gpvc.arturio.dev/rakibnub)  
