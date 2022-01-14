@@ -26,5 +26,6 @@ Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / H
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibnub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/webgurualauddin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/alauddinrakib)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&theme=gruvbox_light&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/rakibnub)  
