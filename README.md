@@ -1,6 +1,7 @@
+![Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHOAUgzJyzyuA/profile-displaybackgroundimage-shrink_350_1400/0/1639337899210?e=1647475200&v=beta&t=fYKUUtJ3yZ_amVMea9w1-UJh4fJz_XlY478B2FlHgYc)
+
 ### Hi There, I'm Ala Uddin
 #### Full Stack Developer
-![Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHOAUgzJyzyuA/profile-displaybackgroundimage-shrink_350_1400/0/1639337899210?e=1647475200&v=beta&t=fYKUUtJ3yZ_amVMea9w1-UJh4fJz_XlY478B2FlHgYc)
 
 Hey, I am Ala Uddin who is working over 9+ years in Web Design and Development. I am the most expert in...
 
