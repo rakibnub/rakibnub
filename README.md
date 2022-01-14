@@ -17,15 +17,13 @@ If you need an efficient, talented, and reliable developer for a long-term proje
 
 Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / HTML5 / CSS3
 
-- 🔭 I’m currently working on React JS, Next JS 
+- 🔭 I’m currently working on React JS, Next JS, Laravel 
 - 👯 I’m looking to collaborate on React JS, Next JS, WordPress, Laravel, VueJS, Nuxt JS  
 - 💬 Ask me about React Js, Front End Development 
 - 📫 How to reach me: mavrickit.alauddin@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibnub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/webgurualauddin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/alauddinrakib)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibnub)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&show_icons=true)  
 
