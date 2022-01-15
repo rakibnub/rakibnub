@@ -18,7 +18,7 @@ If you need an efficient, talented, and reliable developer for a long-term proje
 
 Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / HTML5 / CSS3
 
-- 🔭 I’m currently working on [Orange Business Development Limited (Orangebd)] as a Senior Software Engineer(https://orangebd.com/)  
+- 🔭 I’m currently working as a Senior Software Engineer at [Orange Business Development Limited (Orangebd)](https://orangebd.com/)  
 - 👯 I’m looking to collaborate on React JS, Next JS, WordPress, Laravel, VueJS, Nuxt JS  
 - 💬 Ask me about React Js, Front End Development 
 - 📫 How to reach me: Email: mavrickit.alauddin@gmail.com, Skype: mavrickit.alauddin
