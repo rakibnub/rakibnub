@@ -33,10 +33,10 @@ Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / H
 
 ### Latest Projects
 
-- [School Management Software (Laravel,Jquery)](http://emasbd.com)
-- [Largest Elearning Platform (Laravel,Vuejs,NuxtJs)](https://www.muktopaath.gov.bd)
+- [School Management Software (Laravel, Jquery)](http://emasbd.com)
+- [Largest Elearning Platform (Laravel, Vuejs, NuxtJs)](https://www.muktopaath.gov.bd)
 - [Immigration Portal (Laravel, NuxtJs)](https://immigration.orangebd.com)
-- [Paurasheba Management System (Laravel,NuxtJS)](https://bill-chandpur.paurasheba.com)
+- [Paurasheba Management System (Laravel, NuxtJS)](https://bill-chandpur.paurasheba.com)
 - [News Portal (PHP)](https://www.nayashatabdi.com)
 
 <br />
