@@ -31,6 +31,6 @@ Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / H
 
 <br /><br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&theme=gruvbox_light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/rakibnub)  
