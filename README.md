@@ -21,10 +21,15 @@ Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / H
 - 🔭 I’m currently working on React JS, Next JS, Laravel 
 - 👯 I’m looking to collaborate on React JS, Next JS, WordPress, Laravel, VueJS, Nuxt JS  
 - 💬 Ask me about React Js, Front End Development 
-- 📫 How to reach me: mavrickit.alauddin@gmail.com 
+- 📫 How to reach me: Email: mavrickit.alauddin@gmail.com, Skype: mavrickit.alauddin
 
+### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibnub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/webgurualauddin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/alauddinrakib)  
+[<img align="left" alt="rakibnub | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />](https://github.com/rakibnub)
+[<img align="left" alt="rakibnub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/webgurualauddin)
+[<img align="left" alt="rakibnub | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/https://www.facebook.com/alauddinrakib)
+
+<br /><br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&theme=gruvbox_light&show_icons=true)
 
