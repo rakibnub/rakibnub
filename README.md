@@ -6,7 +6,7 @@
 who is working over 9+ years in Web Design and Development. I am the most expert in...
 
 1. Web Design: HTML5, CSS3, SCSS, Bootstrap, Material UI.
-2. Programming: PHP, Laravel, JavaScript, jQuery, VueJS, NuxtJs, ReactJS, NEXT JS.
+2. Programming: ReactJS, NEXTJS, VueJS, NuxtJs, PHP, Laravel, JavaScript, jQuery.
 3. CMS Technology: WordPress, Drupal, Moodle.
 4. Database: MySQL
 
