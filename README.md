@@ -29,7 +29,17 @@ Skills: REACT/ NEXT/ VUE / NUXT / PHP/ LARAVEL / WORDPRESS / DRUPAL / MOODLE / H
 [<img align="left" alt="rakibnub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/webgurualauddin)
 [<img align="left" alt="rakibnub | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/https://www.facebook.com/alauddinrakib)
 
-<br /><br />
+<br />
+
+### Latest Projects
+
+- [School Management Software](http://emasbd.com)
+- [Largest Elearning Platform](https://www.muktopaath.gov.bd)
+- [Immigration Portal](https://immigration.orangebd.com)
+- [Paurasheba Management System](https://bill-chandpur.paurasheba.com)
+- [News Portal](https://www.nayashatabdi.com)
+
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibnub&show_icons=true)
 
